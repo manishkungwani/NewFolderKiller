@@ -1,0 +1,2 @@
+This project will result into a small utility running in elevated privileges and removing the copies of the NewFolder.exe virus from USB drives.
+It will remove the regsvr.exe from the User directory, delete the registry keys and all exes created by the virus.
